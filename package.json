@@ -10,5 +10,13 @@
         "server": "http-server src"
     },
     "author": "Anthony557",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "http-server": "^14.1.1",
+        "vue": "^3.3.4"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.22.9",
+        "axios": "^1.4.0"
+    }
 }
