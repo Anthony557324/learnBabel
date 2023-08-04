@@ -1,6 +1,6 @@
 {
     "name": "anthony557-learn-babel",
-    "version": "1.0.0",
+    "version": "1.0.0-alpha.1",
     "description": "learn babel",
     "type": "module",
     "main": "index.mjs",
