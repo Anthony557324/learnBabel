@@ -1,0 +1,14 @@
+{
+    "name": "anthony557-learn-babel",
+    "version": "1.0.0",
+    "description": "learn babel",
+    "type": "module",
+    "main": "index.mjs",
+    "scripts": {
+        "test": "echo  Error: no test specified && exit 1",
+        "dev": "echo hello && exit 0",
+        "server": "http-server src"
+    },
+    "author": "Anthony557",
+    "license": "MIT"
+}
